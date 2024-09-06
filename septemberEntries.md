@@ -1,4 +1,4 @@
-# September Progress Journal Entries
+ # 💘 $${\color{Hotpink}September \space Progress \space Journal \space Entries}$$ 💘
 
 | **Date**      | **Tasks**   |
 | --------- | ------- |
