@@ -8,4 +8,7 @@ Things to include:
 * What issues you came across and how you solved them
 * Ideas and goals for next time
 * Screenshots of work
-* ** Checks on the first Friday of every month **
+* Checks on the first Friday of every month
+
+Github writing syntax
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
