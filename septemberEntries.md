@@ -3,7 +3,7 @@
 | **Date**  | **Tasks** |
 | --------- | ------- |
 | September 5, 2024   |  First class of the year, discussed class structure. Decided to create a game and to learn C#.       |
-|           |         |
+| September 6, 2024   |  We finished our journals, decided to use Godot and learn C# through Codecademy. |
 |           |         |
 |           |         |
 |           |         |
