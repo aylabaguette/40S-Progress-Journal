@@ -10,5 +10,7 @@ Things to include:
 * Screenshots of work
 * Checks on the first Friday of every month
 
-Github writing syntax
+
+Github writing syntax:
+
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
