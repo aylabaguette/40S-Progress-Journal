@@ -7,5 +7,6 @@
 | September 10, 2024  |  We discussed options and decided to switch to learning GDscript, because most developers use GDscript with Godot so it will be easier to find tips/tutorials. We found some resources to learn GDscript, including the app learn GDscript from zero. We completed some lessons on this app, and I got up to lesson 6 learning functions.|
 | September 12, 2024  | Continued working on the lessons, reached up to lesson 15 explaining 2D vectors. Completed lessons explaining variables, if-statements, and functions specific to Godot. We also discussed a timeline for finishing the course.     |
 | September 13, 2024          |  Only completed one lesson today because we were having deep conversations,, whoops. Talked about potential timeline for finishing/class schedule.   |
-|           |         |
+| September 20, 2024          |  Completed up to lesson 20, covered while loops, for loops, and arrays. Very similar except some different syntax, and it is annoying me that variables don't really have types. some notes I took today, mostly on the syntax differences. <img width="610" alt="Screenshot 2024-09-20 at 3 09 59 PM" src="https://github.com/user-attachments/assets/364cde4c-6c90-4f72-b54e-e1321af521d3">
+    |
 |           |         |
