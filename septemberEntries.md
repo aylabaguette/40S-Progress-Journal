@@ -11,3 +11,4 @@
 | September 24, 2024          |    Completed up to lesson 25, covered returning in a function, more arrays, and something more new, dictionaries. Although this is the first real new concept they are similar to arrays and not that confusing.      |
 | September 26, 2024 | Completed the course ! I finished learning about dictionaries and some other details about variables. Looking into what the next steps to take after everyone finishes the course |
 | September 27, 2024 | Started watching a video about Godot basics: https://www.youtube.com/watch?v=LOhfqjmasi0 learned some basic things like how to make a new file and upload files, and then how to make character animations. |
+| October 1, 2024 | Continued with youtube tutorial, learned how to make a tilemap, some animations, and how to "pick up" items. |
