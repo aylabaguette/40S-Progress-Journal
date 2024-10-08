@@ -13,5 +13,6 @@
 | September 27, 2024 | Started watching a video about Godot basics: https://www.youtube.com/watch?v=LOhfqjmasi0 learned some basic things like how to make a new file and upload files, and then how to make character animations. |
 | October 1, 2024 | Continued with youtube tutorial, learned how to make a tilemap, some animations, and how to "pick up" items. |
 | October 4, 2024 | Worked on video, made a world barrier/kill player and the enemy. This my progress so far: <img width="655" alt="Screenshot 2024-10-04 at 3 03 52 PM" src="https://github.com/user-attachments/assets/553cbd4d-9672-4abe-9d41-71926a2e1bf7"> |
+| October 8, 2024 | Almost done with the video, like 10 minutes left. Worked on some fixes in the game, like adding new animations, enemy behavior, and a score | 
 
 
