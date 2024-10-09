@@ -14,5 +14,5 @@
 | October 1, 2024 | Continued with youtube tutorial, learned how to make a tilemap, some animations, and how to "pick up" items. |
 | October 4, 2024 | Worked on video, made a world barrier/kill player and the enemy. This my progress so far: <img width="655" alt="Screenshot 2024-10-04 at 3 03 52 PM" src="https://github.com/user-attachments/assets/553cbd4d-9672-4abe-9d41-71926a2e1bf7"> |
 | October 8, 2024 | Finished the video! Worked on some fixes in the game, like adding new animations, enemy behavior, score, and audio. Talked about next steps (playing around with making own game)| 
-
+| October 9, 2024 | Spent a lot of hours in and outside of class working on my own mini game. Decided to make it top down this time to figure something different out. However, I struggled a lot without the tutorial. I downloaded some free assets, made a map and sprite animation, and worked on some wall colliders in the tilemap. However since I was coding from my brain instead of a tutorial I didn't know that there was a line of code I missed to make the colliders work, but I figured it out eventually. Had a lot of other problems too though. Next I am going to try to make an inventory I think? |
 
